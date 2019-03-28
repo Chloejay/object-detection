@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>menu30.jpeg</filename>
+	<path>/Users/chloeji/coke_menu_detection/images/menu30.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>222</width>
+		<height>227</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>1</ymin>
+			<xmax>211</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>
