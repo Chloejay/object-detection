@@ -12,6 +12,6 @@ Resource:
 <ul>
   <li>https://github.com/tzutalin/labelImg</li>
   <li>https://github.com/wkentaro/labelme</li> 
-</ul>
-http://openaccess.thecvf.com/content_ECCV_2018/papers/NIKITA_DVORNIK_Modeling_Visual_Context_ECCV_2018_paper.pdf
-https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md   
+  <li>http://openaccess.thecvf.com/content_ECCV_2018/papers/NIKITA_DVORNIK_Modeling_Visual_Context_ECCV_2018_paper.pdf</li>
+  <li>https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md </li>
+</ul>  
