@@ -9,9 +9,9 @@ Transfer the XML file to POSCAL VOC file and get model runs on the fastai framew
 
 Resource: 
 -annotation tool: 
-https://github.com/tzutalin/labelImg 
-https://github.com/wkentaro/labelme 
-
+<ul>
+  <li>https://github.com/tzutalin/labelImg</li>
+  <li>https://github.com/wkentaro/labelme</li> 
+</ul>
 http://openaccess.thecvf.com/content_ECCV_2018/papers/NIKITA_DVORNIK_Modeling_Visual_Context_ECCV_2018_paper.pdf
-https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md  
-
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md   
